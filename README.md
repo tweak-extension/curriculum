@@ -787,7 +787,7 @@ Also, **if you always remember that code is written to read (by humans)** and no
     - [React DevTools](https://chrome.google.com/webstore/detail/react-developer-tools/fmkadmapgofadopljbjfkapdkoienihi?hl=en)
 
     - [Redux DevTools](https://chrome.google.com/webstore/detail/redux-devtools/lmhkpmbekcpmknklioeibfkpmmfibljd)
-    - [ModHeader](https://chrome.google.com/webstore/detail/modheader/idgpnmonknjnojddfkpgkljpfnnfcklj?hl=en)
+    - [Tweak](https://chromewebstore.google.com/detail/tweak-mock-and-modify-htt/feahianecghpnipmhphmfgmpdodhcapi)
     - [CodeClimate](https://codeclimate.com/browser-extension)
     - [ScratchJS](https://github.com/richgilbank/Scratch-JS) - Chrome extension to write Babel transpiled scripts directly in Chrome DevTools
   
